@@ -4,13 +4,9 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+It will start the project locally.
 
 ### `npm run build`
 
@@ -24,13 +20,6 @@ Your app is ready to be deployed!
 
 Project has a single page showing the media fetched from backend server
 which is also part of this assignment.
-
-
-```
-frontend/src/App.tsx
-```
-It contains a App compenent which is used to fetch the media and dispay the them
-on the page.
 
 ```
 frontend/src/components/Media/Media.tsx
