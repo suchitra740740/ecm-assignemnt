@@ -1,0 +1,7 @@
+.my-media {
+    max-width: 240px;
+    text-align: center;
+    margin: 4px;
+    padding: 8px;
+    border: 1px solid gray;
+}
